@@ -31,7 +31,7 @@ Watch the video below from PostgresBuild2020 Conference, online
 
  ## More on the NORM example
  
- _create_tables.sql_  creates three tables: account, phone and email and some lookiups.
+ _create_tables.sql_  creates three tables: account, phone and email and some lookups.
  
  _initial_data_insert.sql_ does exactly what you think it does
  
